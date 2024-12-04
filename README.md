@@ -1,1 +1,3 @@
 # Anomaly-Detection-in-Temperature-Sensor-Data
+
+This project focuses on implementing an AI-based anomaly detection system to identify outliers in temperature sensor data. Using the Isolation Forest algorithm, an unsupervised machine learning method, the project detects irregularities in simulated sensor readings, distinguishing abnormal values from normal operational ranges. The dataset is synthetically generated, including both standard temperature readings (20°C–30°C) and anomalies (e.g., <10°C or >50°C). The results are visualized using Python’s Matplotlib library, with anomalies highlighted for clarity. This project demonstrates the practical application of AI for diagnostics and monitoring, providing a foundation for fault detection in real-world sensor systems.
